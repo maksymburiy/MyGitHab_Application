@@ -1,2 +1,2 @@
-# MyGitHab_Application
-MyGitHab Application
+# MyGitHub_Application
+MyGitHub Application
